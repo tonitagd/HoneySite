@@ -1,0 +1,210 @@
+.default-button {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.section-title h2::after {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.section-title h2::before {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+@media only screen and (min-width:768px) {
+  .top-menu.menu-shrink {
+    background: #E65100;
+    background: -webkit-linear-gradient(left, #E65100, #FF9800);
+    background: -o-linear-gradient(bott, #E65100, #FF9800);
+    background: -moz-linear-gradient(right, #E65100, #FF9800);
+    background: linear-gradient(to right, #E65100, #FF9800);
+  }
+}
+
+.gradient-bg {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.item-img-bg::after {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.app-about-text h3::after {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.single-feature::after {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.single-feature .feature-icon {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.screenshot-item:hover .screenshot-image::before {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.screenshots-modal .close {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.screenshot-details-text .title::after {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.testimonial-section::after {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.testimonial-item .icofont-quote-left {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.single-price-package .price-header .price-value {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.faq-panel .faq-title::before {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.faq-panel .faq-title.active {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+
+.single-contact-info i {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.back-top-button i {
+  color: #E65100;
+}
+
+.single-price-package .price-header .price-value {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(right, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.screenshots-modal .close:hover, .screenshots-modal .close:focus {
+  box-shadow: 0 0 10px #E65100;
+}
+
+.app-about-text ul li i {
+  color: #E65100;
+}
+
+.navbar-white .navbar-nav>.active>a, .navbar-white .navbar-nav>.active>a:focus, .navbar-white .navbar-nav>.active>a:hover {
+  color: #E65100;
+}
+
+.navbar-white .navbar-nav li a::before {
+  background: #E65100;
+  background: -webkit-linear-gradient(left, #E65100, #FF9800);
+  background: -o-linear-gradient(bott, #E65100, #FF9800);
+  background: -moz-linear-gradient(right, #E65100, #FF9800);
+  background: linear-gradient(to right, #E65100, #FF9800);
+}
+
+.navbar-white.navbar-nav>li>a:focus, .navbar-white .navbar-nav>li>a:hover {
+  color: #E65100;
+}
+
+.default-button:hover {
+  box-shadow: 0 0 10px #E65100;
+}
+
+.contact-info ul li i {
+  color: #E65100;
+}
+
+.testimonial-item .pic {
+  box-shadow: 0 0 2px #E65100;
+}
+
+.screenshot-details-text ul li i {
+  color: #E65100;
+}
+
+.owl-dots .owl-dot.active span {
+  background: #E65100;
+}
+
+.screenshot-carousel .owl-prev i, .screenshot-carousel-two .owl-prev i {
+  color: #E65100;
+}
+
+.screenshot-carousel .owl-next i, .screenshot-carousel-two .owl-next i {
+  color: #E65100;
+}

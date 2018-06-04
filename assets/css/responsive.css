@@ -1,0 +1,533 @@
+@media only screen and (max-width:767px) {
+  .top-menu {
+    background-color: #fff;
+    padding: 0;
+    box-shadow: 0 0 5px #282828;
+  }
+  .top-menu .navbar-brand {
+    color: #6a11cb;
+    font-size: 20px;
+  }
+  .top-menu .navbar-brand:focus, .top-menu .navbar-brand:hover {
+    color: #6a11cb;
+  }
+  .top-menu .navbar-toggle {
+    border: none;
+    background: transparent !important;
+  }
+  .top-menu .navbar-toggle .icon-bar {
+    background: #6a11cb;
+    background: -webkit-linear-gradient(left, #6a11cb, #2575fc);
+    background: -o-linear-gradient(right, #6a11cb, #2575fc);
+    background: -moz-linear-gradient(right, #6a11cb, #2575fc);
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+  }
+  .top-menu .navbar-toggle:hover {
+    background: transparent !important;
+  }
+  .top-menu .navbar-toggle .icon-bar {
+    width: 22px;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+  }
+  .top-menu .navbar-toggle .top-bar {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform-origin: 10% 10%;
+    -webkit-transform-origin: 10% 10%;
+  }
+  .top-menu .navbar-toggle .middle-bar {
+    opacity: 0;
+  }
+  .top-menu .navbar-toggle .bottom-bar {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform-origin: 10% 90%;
+    -webkit-transform-origin: 10% 90%;
+  }
+  .top-menu .navbar-toggle.collapsed .top-bar {
+    -webkit-transform: rotate(0);
+  }
+  .top-menu .navbar-toggle.collapsed .middle-bar {
+    opacity: 1;
+  }
+  .top-menu .navbar-toggle.collapsed .bottom-bar {
+    transform: rotate(0);
+    -webkit-transform: rotate(0);
+  }
+  .top-menu .navbar-nav>li>a {
+    color: #000;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .top-menu .navbar-nav>.active>a, .top-menu .navbar-nav>.active>a:focus, .top-menu .navbar-nav>.active>a:hover {
+    color: #6a11cb;
+  }
+  .top-menu .navbar-nav li a::before {
+    background: #6a11cb;
+    background: -webkit-linear-gradient(left, #6a11cb, #2575fc);
+    background: -o-linear-gradient(right, #6a11cb, #2575fc);
+    background: -moz-linear-gradient(right, #6a11cb, #2575fc);
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+  }
+  .top-menu .navbar-nav>li>a:focus, .top-menu .navbar-nav>li>a:hover {
+    color: #000;
+  }
+  .top-menu .navbar-nav {
+    text-align: center;
+  }
+  .single-slider-item {
+    text-align: center;
+  }
+  .single-slider-item h1 {
+    font-size: 20px;
+    line-height: 35px;
+    margin: 30px 0 10px;
+  }
+  .single-slider-item p {
+    font-size: 15px;
+  }
+  .single-slider-item .slide-btn-white, .single-slider-item .slide-btn-bordered {
+    font-size: 12px;
+    padding: 12px 22px;
+  }
+  .single-slider-item .slide-btn-white.mr-10 {
+    margin-right: 0;
+  }
+  .single-slider-item .slide-button {
+    margin-bottom: 25px;
+    margin-top: 20px;
+  }
+  .single-slider-item .welcome-phone {
+    max-width: 160px;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  section {
+    padding: 50px 0;
+  }
+  .section-title h2 {
+    font-size: 24px;
+  }
+  .section-title {
+    margin-bottom: 40px;
+  }
+  .app-about-text h3 {
+    font-size: 20px;
+    margin: 0 0 20px;
+  }
+  .app-about-text {
+    max-width: 100%;
+  }
+  .app-about-text p {
+    margin-bottom: 15px;
+  }
+  .default-button {
+    font-size: 13px;
+    padding: 14px 30px;
+  }
+  .app-about-text {
+    margin-bottom: 30px;
+  }
+  .awsome-features {
+    padding: 50px 0;
+  }
+  .single-feature {
+    margin-bottom: 0;
+  }
+  .app-screenshots-section {
+    padding: 50px 0 100px;
+  }
+  .testimonial-section {
+    padding: 50px 0 70px;
+  }
+  .pricing-section {
+    padding: 50px 0 20px;
+  }
+  .single-price-package {
+    box-shadow: 0 0 5px #dddddd;
+    margin: 0 auto 30px;
+    max-width: 500px;
+  }
+  .single-price-package .price-header .price-value .text-large {
+    font-size: 30px;
+  }
+  .single-price-package .price-header .price-value sup {
+    font-size: 18px;
+  }
+  .faq-textarea p {
+    padding: 15px !important;
+  }
+  .faq-content {
+    margin-top: 50px;
+  }
+
+  .footer-bottom {
+    text-align: center;
+  }
+  .footer-bottom .social-links {
+    text-align: center;
+  }
+  .footer-bottom .copyright {
+    margin: 0 0 10px;
+  }
+  #toTop {
+    right: 10px;
+  }
+
+  .contact-section {
+    padding: 50px 0 20px;
+  }
+  .homepage-slides .owl-nav div {
+    height: 50px;
+    line-height: 50px;
+    top: 70%;
+  }
+  .contact-info ul li {
+    padding: 32px 0 26px 50px;
+  }
+  .faq-textarea {
+    padding: 10px 20px 0;
+  }
+  .screenshot-carousel .owl-next i, .screenshot-carousel-two .owl-next i {
+    top: auto;
+    bottom: 0;
+    right: 0;
+  }
+  .screenshot-carousel .owl-prev i, .screenshot-carouseltwo .owl-prev i {
+    top: auto;
+    bottom: 0;
+    left: 0;
+  }
+  .modal-header {
+    text-align: center;
+  }
+  .screenshots-modal .close {
+    float: none;
+  }
+  .screenshot-details-text .title {
+    margin: 35px 0 20px;
+    font-size: 20px;
+  }
+  .modal.right .modal-body {
+    padding: 0 15px 15px;
+  }
+  .testimonial-item .pic {
+    height: 80px;
+    width: 80px;
+  }
+  .testimonial-item .pic img {
+    width: 80px;
+    height: 80px;
+  }
+  .testimonial-carousel .owl-dots {
+    margin-top: 0;
+  }
+
+  #map {
+    height: 400px;
+    width: 100%;
+  }
+  .single-price-package .price-header h3 {
+    padding: 20px 0;
+    font-size: 20px;
+  }
+  .single-price-package .price-header .price-value {
+    padding: 20px 0;
+  }
+  .single-price-package .price-list {
+    margin: 30px 0;
+  }
+  .faq-panel .faq-title {
+    font-size: 15px;
+  }
+  .slider-text {
+    padding-right: 0;
+  }
+  .wave-one-counter {
+    padding: 90px 0 40px;
+  }
+  .wave-one-faqs-section {
+    padding: 70px 0;
+  }
+  .cs-pt-130 {
+    padding-top: 70px;
+  }
+  .feature-style-two .feature-icon {
+    position: absolute;
+    left: 10px;
+    top: 5px;
+  }
+  .feature-style-two {
+    text-align: left;
+    padding: 90px 10px 5px;
+    margin-top: 20px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature-style-two h4 {
+    font-size: 16px;
+  }
+  .single-slider-item.wave-bg-two {
+    padding-top: 40px;
+  }
+  .wave-two-counter {
+    padding: 60px 0 50px;
+  }
+  .wave-two-testimonial {
+    padding: 50px 0 100px;
+  }
+  .wave-faqs-section {
+    padding: 50px 0 90px;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+  .slide-item-table {
+    padding-top: 0;
+  }
+  .top-menu .navbar-nav>li>a {
+    font-size: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .top-menu .navbar-brand {
+    font-size: 20px;
+  }
+  section {
+    padding: 60px 0;
+  }
+  .section-title {
+    margin-bottom: 50px;
+  }
+  .section-title h2 {
+    font-size: 26px;
+  }
+  .single-slider-item .welcome-phone {
+    max-width: 270px;
+  }
+  .single-slider-item h1 {
+    font-size: 24px;
+    line-height: 45px;
+    margin: 20px 0 20px;
+  }
+  .awsome-features {
+    padding: 60px 0 40px;
+  }
+  .app-screenshots-section {
+    padding: 60px 0 115px;
+  }
+  .testimonial-section {
+    padding: 60px 0 100px;
+  }
+  .pricing-section {
+    padding: 60px 0 30px;
+  }
+  .single-price-package {
+    margin: 0 auto 40px;
+    max-width: 450px;
+    width: 100%;
+  }
+  .single-price-package .price-header .price-value .text-large {
+    font-size: 35px;
+  }
+  .single-price-package .price-header h3 {
+    font-size: 20px;
+  }
+  .faq-content {
+    margin-top: 40px;
+  }
+  .faqs-section.angle-gray-bg {
+    padding-top: 90px;
+    padding-bottom: 120px;
+  }
+  #contact.angle-contact-section::before {
+    height: 20%;
+    top: -180px;
+  }
+  .contact-section.angle-contact-section {
+    padding: 155px 0 60px;
+  }
+  .app-about-text {
+    max-width: 100%;
+    position: relative;
+    z-index: 5;
+  }
+  .screenshot-carousel .owl-next i, .screenshot-carousel-two .owl-next i {
+    right: 0;
+    top: auto;
+    font-size: 40px;
+    bottom: 0;
+  }
+  .screenshot-carousel .owl-prev i, .screenshot-carousel-two .owl-prev i {
+    left: 0;
+    top: auto;
+    font-size: 40px;
+    bottom: 0;
+  }
+  .single-feature {
+    margin-bottom: 0;
+  }
+
+  #toTop {
+    bottom: 80px;
+    right: 20px;
+  }
+  .screenshot-details-text .title {
+    font-size: 20px;
+    margin: 0 0 20px;
+  }
+  .slider-text {
+    padding-right: 0;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  .sm-one-col {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .wave-one-counter {
+    padding: 90px 0 40px;
+  }
+  .wave-one-faqs-section {
+    padding: 90px 0;
+  }
+  .cs-pt-130 {
+    padding-top: 90px;
+  }
+  .wave-two-counter {
+    padding: 70px 0 55px;
+  }
+  .wave-two-testimonial {
+    padding: 60px 0 120px;
+  }
+  .wave-faqs-section {
+    padding: 70px 0 100px;
+  }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+  .single-slider-item .container {
+    max-width: 900px;
+    width: 100%;
+  }
+  .slider-text {
+    padding-right: 0;
+  }
+  #toTop {
+    bottom: 80px;
+    right: 20px;
+  }
+  #map {
+    height: 350px;
+  }
+  .single-slider-item h1 {
+    font-size: 25px;
+    line-height: 50px;
+    margin: 40px 0 15px;
+  }
+  .section-title h2 {
+    font-size: 25px;
+  }
+  .single-feature h4 {
+    font-size: 16px;
+  }
+  section {
+    padding: 70px 0;
+  }
+  .section-title {
+    margin-bottom: 70px;
+  }
+  .awsome-features {
+    padding: 70px 0 40px;
+  }
+  .app-screenshots-section {
+    padding: 70px 0 125px;
+  }
+  .testimonial-section {
+    padding: 70px 0 120px;
+  }
+  .pricing-section {
+    padding: 70px 0 40px;
+  }
+  .app-about-text {
+    max-width: 100%;
+    position: relative;
+    z-index: 5;
+  }
+  .faqs-section.angle-gray-bg {
+    padding-top: 100px;
+    padding-bottom: 130px;
+  }
+  .contact-section.angle-contact-section {
+    padding: 200px 0 70px;
+  }
+  .contact-info ul li {
+    padding: 40px 0 39px 50px;
+  }
+  .screenshot-carousel .owl-prev i, .screenshot-carousel-two .owl-prev i {
+    left: -30px;
+  }
+  .screenshot-carousel .owl-next i, .screenshot-carousel-two .owl-next i {
+    right: -30px;
+  }
+  .testimonial-item:after {
+    border-right: 175px solid transparent;
+  }
+  .testimonial-item:before {
+    border-left: 175px solid transparent;
+  }
+  .single-price-package .price-header h3 {
+    padding: 25px 0;
+    font-size: 20px;
+  }
+  .single-price-package .price-header .price-value .text-large {
+    font-size: 40px;
+  }
+  .single-price-package .price-header .price-value {
+    padding: 25px 0;
+  }
+  .single-price-package .price-list {
+    margin: 30px 0;
+  }
+  .wave-one-counter {
+    padding: 100px 0 60px;
+  }
+  .wave-one-faqs-section {
+    padding: 100px 0;
+  }
+  .cs-pt-130 {
+    padding-top: 100px;
+  }
+  .wave-two-counter {
+    padding: 100px 0 70px;
+  }
+  .wave-two-testimonial {
+    padding: 80px 0 130px;
+  }
+  .wave-faqs-section {
+    padding: 70px 0 100px;
+  }
+}
+
+@media only screen and (min-width:1200px) {
+  .faqs-section.angle-gray-bg {
+    padding: 120px 0 170px;
+  }
+}
+
+@media only screen and (min-width:1824px) {
+  .single-slider-item .welcome-phone {
+    max-width: 100%;
+  }
+  .single-slider-item h1 {
+    margin: 105px 0 20px;
+  }
+}
